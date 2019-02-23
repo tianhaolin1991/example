@@ -2,9 +2,6 @@
 第二次提交 master example
 第三次提交 master example
 第三次提交 mywork example
-<<<<<<< HEAD
 第四次提交 master example
-=======
 第四次提交 mywork example2
->>>>>>> 4th-master-example2
 
